@@ -1,2 +1,1 @@
-# counter
-Counter
+# [Counter](https://denisovspb.github.io/counter/)
